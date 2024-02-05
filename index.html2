@@ -1,0 +1,95 @@
+<html
+ 
+lang="en">
+
+<head>
+
+  
+<meta
+ 
+charset="UTF-8">
+
+  
+<meta
+ 
+name="viewport"
+ 
+content="width=device-width, initial-scale=1.0">
+
+  
+<title>Gnana sai 323103310211 gayatri college</title>
+  <link rel="stylesheet" href="style.css"> </head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Gnana sai</h1>
+      <p>gnanasai 323103310211 gayatri college</p>
+      <nav>
+        <ul>
+          <li><a href="#about">About Me</a></li>
+          <li><a href="#skills">Skills &amp; Projects</a></li>
+          <li><a href="#competitions">Competitions &amp; Achievements</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="about">
+      <div class="container">
+        <h2>About Me</h2>
+        <p>I'm Gnana sai, a passionate gamer, athlete, and computer science student with a competitive spirit. I thrive in fast-paced environments and push myself to constantly learn and improve. My love for sports translates seamlessly to esports, where I find strategic thinking, teamwork, and individual skill crucial for success. As a computer science student, I'm fascinated by the technology behind games and the potential to create immersive experiences. This portfolio showcases my skills, projects, and achievements in the gaming world and beyond.</p>
+        <img src="logo.jpg" alt="Your photo" class="profile-image">
+      </div>
+    </section>
+
+    <section id="skills">
+      <div class="container">
+        <h2>Skills &amp; Projects</h2>
+        <ul>
+          <li>Strong knowledge of game mechanics and strategies across various genres (FPS, MOBA, RTS, etc.)</li>
+          <li>Excellent communication and teamwork skills honed through competitive gaming and sports</li>
+          <li>Proficient in programming languages like C++, Python, and Java</li>
+          <li>Experience with game development tools and frameworks</li>
+          <li>Portfolio of personal projects showcasing problem-solving and coding skills</li>
+        </ul>
+        <a href="#projects" class="button">See My Projects</a>
+      </div>
+    </section>
+
+    <section id="competitions">
+      <div class="container">
+        <h2>Competitions &amp; Achievements</h2>
+        <h3>Esports</h3>
+        <ul>
+          <li>Top 10% in ❖〲Ꮐɴᴀɴᴀ乂Sᴀɪ☯ regional tournament</li>
+          <li>Team MVP in Clash Squade</li>
+          <li>Active member of Humble</li>
+        </ul>
+        <h3>Sports</h3>
+        <ul>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/KrLj6nc516A?si=ymujfw-N4n8XA5Nv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </section>
+
+    <section id="contact">
+      <div class="container">
+        <h2>Get in Touch</h2>
+        <p>I'm always looking for opportunities to connect with other passionate gamers, developers, and anyone interested in the intersection of technology and sports. Feel free to reach out!</p>
+        <ul>
+          <li><a href="mailto:gnansairouhtu68@gmail.com"><i class="fa fa-envelope"></i> Email</a></li>
+          <li><a href="https://www.instagram.com/gnanasai_routhu_23/"><i class="fa fa-twitter"></i> Instagram</a></li>
+          <li><a href="https://github.com/gnana-sai123"><i class="fa fa-linkedin"></i> Git hub</a></li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; Gnana$ai 2024</p>
+  </footer>
+
+  <script src="script.js"></script> </body>
+</html>
